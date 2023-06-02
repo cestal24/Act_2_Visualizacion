@@ -1,0 +1,341 @@
+Year;Cause of death or injury;Measure;Value
+2017;Tuberculosis;Percent of total deaths;0,0211573756141351000
+2005 - 2010;Tuberculosis;Deaths annual % change;-0,0325487755559998000
+2017;HIV/AIDS;Percent of total deaths;0,0170611251089369000
+2005 - 2010;HIV/AIDS;Deaths annual % change;-0,0456628972256115000
+2017;Diarrheal diseases;Percent of total deaths;0,0280533101090737000
+2005 - 2010;Diarrheal diseases;Deaths annual % change;-0,0193584742704781000
+2017;Other intestinal infectious diseases;Percent of total deaths;0,0000258723479591322
+2005 - 2010;Other intestinal infectious diseases;Deaths annual % change;-0,0663090702758617000
+2017;Lower respiratory infections;Percent of total deaths;0,0457336479660751000
+2005 - 2010;Lower respiratory infections;Deaths annual % change;-0,0211496438852426000
+2017;Upper respiratory infections;Percent of total deaths;0,0001628671493701790
+2005 - 2010;Upper respiratory infections;Deaths annual % change;-0,0724115430345683000
+2017;Otitis media;Percent of total deaths;0,0000169440385863200
+2005 - 2010;Otitis media;Deaths annual % change;-0,0566845229686553000
+2017;Meningitis;Percent of total deaths;0,0051481216677790500
+2005 - 2010;Meningitis;Deaths annual % change;-0,0373921923661004000
+2017;Encephalitis;Percent of total deaths;0,0016510598694873000
+2005 - 2010;Encephalitis;Deaths annual % change;-0,0229988286102129000
+2017;Diphtheria;Percent of total deaths;0,0000647776890652405
+2005 - 2010;Diphtheria;Deaths annual % change;-0,1350428734453270000
+2017;Whooping cough;Percent of total deaths;0,0016408007069808500
+2005 - 2010;Whooping cough;Deaths annual % change;-0,0447329834586024000
+2017;Tetanus;Percent of total deaths;0,0006816135000307580
+2005 - 2010;Tetanus;Deaths annual % change;-0,1121259593686440000
+2017;Measles;Percent of total deaths;0,0017034712666564200
+2005 - 2010;Measles;Deaths annual % change;-0,1350579253385440000
+2017;Varicella and herpes zoster;Percent of total deaths;0,0002786693563271420
+2005 - 2010;Varicella and herpes zoster;Deaths annual % change;-0,0311836222741761000
+2017;Malaria;Percent of total deaths;0,0110783402748790000
+2005 - 2010;Malaria;Deaths annual % change;-0,0451832580211850000
+2017;Chagas disease;Percent of total deaths;0,0001403720918739010
+2005 - 2010;Chagas disease;Deaths annual % change;-0,0147370546651001000
+2017;Leishmaniasis;Percent of total deaths;0,0001345632685432580
+2005 - 2010;Leishmaniasis;Deaths annual % change;-0,1066566175443220000
+2017;African trypanosomiasis;Percent of total deaths;0,0000243933373104101
+2005 - 2010;African trypanosomiasis;Deaths annual % change;-0,1812412129169510000
+2017;Schistosomiasis;Percent of total deaths;0,0001579495392248420
+2005 - 2010;Schistosomiasis;Deaths annual % change;-0,0306379651873642000
+2017;Cysticercosis;Percent of total deaths;0,0000133908238799751
+2005 - 2010;Cysticercosis;Deaths annual % change;-0,0363208942562328000
+2017;Cystic echinococcosis;Percent of total deaths;0,0000213860624530482
+2005 - 2010;Cystic echinococcosis;Deaths annual % change;-0,0511993809244840000
+2017;Lymphatic filariasis;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Lymphatic filariasis;Deaths annual % change;0,0000000000000000000
+2017;Onchocerciasis;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Onchocerciasis;Deaths annual % change;0,0000000000000000000
+2017;Trachoma;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Trachoma;Deaths annual % change;0,0000000000000000000
+2017;Dengue;Percent of total deaths;0,0007233386058357850
+2005 - 2010;Dengue;Deaths annual % change;0,0362668474950215000
+2017;Yellow fever;Percent of total deaths;0,0000855471470431926
+2005 - 2010;Yellow fever;Deaths annual % change;-0,0387479644253421000
+2017;Rabies;Percent of total deaths;0,0002083847259727350
+2005 - 2010;Rabies;Deaths annual % change;-0,0819993704346103000
+2017;Intestinal nematode infections;Percent of total deaths;0,0000573008269868646
+2005 - 2010;Intestinal nematode infections;Deaths annual % change;-0,0685607376129447000
+2017;Food-borne trematodiases;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Food-borne trematodiases;Deaths annual % change;0,0000000000000000000
+2017;Other neglected tropical diseases;Percent of total deaths;0,0002245173644245540
+2005 - 2010;Other neglected tropical diseases;Deaths annual % change;-0,0068570054646216800
+2017;Maternal disorders;Percent of total deaths;0,0034610645158844600
+2005 - 2010;Maternal disorders;Deaths annual % change;-0,0318097670937832000
+2017;Neonatal disorders;Percent of total deaths;0,0318836686735364000
+2005 - 2010;Neonatal disorders;Deaths annual % change;-0,0335789811200444000
+2017;Protein-energy malnutrition;Percent of total deaths;0,0041427851160826500
+2005 - 2010;Protein-energy malnutrition;Deaths annual % change;-0,0345190613001418000
+2017;Iodine deficiency;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Iodine deficiency;Deaths annual % change;0,0000000000000000000
+2017;Vitamin A deficiency;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Vitamin A deficiency;Deaths annual % change;0,0000000000000000000
+2017;Dietary iron deficiency;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Dietary iron deficiency;Deaths annual % change;0,0000000000000000000
+2017;Other nutritional deficiencies;Percent of total deaths;0,0006832782337561930
+2005 - 2010;Other nutritional deficiencies;Deaths annual % change;-0,0132739520451164000
+2017;Sexually transmitted infections excluding HIV;Percent of total deaths;0,0021285622744547800
+2005 - 2010;Sexually transmitted infections excluding HIV;Deaths annual % change;-0,0303724870754477000
+2017;Acute hepatitis;Percent of total deaths;0,0022591798525185600
+2005 - 2010;Acute hepatitis;Deaths annual % change;-0,0266269497604728000
+2017;Leprosy;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Leprosy;Deaths annual % change;0,0000000000000000000
+2017;Other unspecified infectious diseases;Percent of total deaths;0,0014169176647729600
+2005 - 2010;Other unspecified infectious diseases;Deaths annual % change;-0,0121198962186042000
+2017;Esophageal cancer;Percent of total deaths;0,0077924723494445000
+2005 - 2010;Esophageal cancer;Deaths annual % change;-0,0167135266247122000
+2017;Stomach cancer;Percent of total deaths;0,0154612136096880000
+2005 - 2010;Stomach cancer;Deaths annual % change;-0,0144272924683661000
+2017;Liver cancer;Percent of total deaths;0,0146468169971159000
+2005 - 2010;Liver cancer;Deaths annual % change;-0,0002990918622154690
+2017;Larynx cancer;Percent of total deaths;0,0022605990637818300
+2005 - 2010;Larynx cancer;Deaths annual % change;0,0017714764839048300
+2017;Tracheal, bronchus, and lung cancer;Percent of total deaths;0,0336588515437420000
+2005 - 2010;Tracheal, bronchus, and lung cancer;Deaths annual % change;0,0094959506515479800
+2017;Breast cancer;Percent of total deaths;0,0109324068791053000
+2005 - 2010;Breast cancer;Deaths annual % change;0,0064601039403448700
+2017;Cervical cancer;Percent of total deaths;0,0046414284810586000
+2005 - 2010;Cervical cancer;Deaths annual % change;-0,0037467915161701800
+2017;Uterine cancer;Percent of total deaths;0,0015236005308594600
+2005 - 2010;Uterine cancer;Deaths annual % change;0,0038400803293594700
+2017;Prostate cancer;Percent of total deaths;0,0074342635228325200
+2005 - 2010;Prostate cancer;Deaths annual % change;0,0114182267703886000
+2017;Colon and rectum cancer;Percent of total deaths;0,0160163636956137000
+2005 - 2010;Colon and rectum cancer;Deaths annual % change;0,0093316367934121000
+2017;Lip and oral cavity cancer;Percent of total deaths;0,0034622018774819800
+2005 - 2010;Lip and oral cavity cancer;Deaths annual % change;0,0174307350194793000
+2017;Nasopharynx cancer;Percent of total deaths;0,0012431580771098800
+2005 - 2010;Nasopharynx cancer;Deaths annual % change;0,0033315983042750200
+2017;Other pharynx cancer;Percent of total deaths;0,0020986732114468000
+2005 - 2010;Other pharynx cancer;Deaths annual % change;0,0225172833890666000
+2017;Gallbladder and biliary tract cancer;Percent of total deaths;0,0031097191942689900
+2005 - 2010;Gallbladder and biliary tract cancer;Deaths annual % change;0,0088861733841288700
+2017;Pancreatic cancer;Percent of total deaths;0,0078841832924304700
+2005 - 2010;Pancreatic cancer;Deaths annual % change;0,0218499748722376000
+2017;Malignant skin melanoma;Percent of total deaths;0,0011022547576849900
+2005 - 2010;Malignant skin melanoma;Deaths annual % change;0,0092972487374766100
+2017;Non-melanoma skin cancer;Percent of total deaths;0,0011635858923242400
+2005 - 2010;Non-melanoma skin cancer;Deaths annual % change;0,0218328162786414000
+2017;Ovarian cancer;Percent of total deaths;0,0031455902611459200
+2005 - 2010;Ovarian cancer;Deaths annual % change;0,0077590611051949100
+2017;Testicular cancer;Percent of total deaths;0,0001369499993452620
+2005 - 2010;Testicular cancer;Deaths annual % change;-0,0033453960487713600
+2017;Kidney cancer;Percent of total deaths;0,0024761162489309000
+2005 - 2010;Kidney cancer;Deaths annual % change;0,0134920495788883000
+2017;Bladder cancer;Percent of total deaths;0,0035131997475803100
+2005 - 2010;Bladder cancer;Deaths annual % change;0,0076286794767816700
+2017;Brain and nervous system cancer;Percent of total deaths;0,0044175165107495600
+2005 - 2010;Brain and nervous system cancer;Deaths annual % change;0,0077316804940062900
+2017;Thyroid cancer;Percent of total deaths;0,0007370554828541400
+2005 - 2010;Thyroid cancer;Deaths annual % change;0,0160300064462895000
+2017;Mesothelioma;Percent of total deaths;0,0005346084430456190
+2005 - 2010;Mesothelioma;Deaths annual % change;0,0169157387259865000
+2017;Hodgkin lymphoma;Percent of total deaths;0,0005819737511459420
+2005 - 2010;Hodgkin lymphoma;Deaths annual % change;-0,0155094341424611000
+2017;Non-Hodgkin lymphoma;Percent of total deaths;0,0044442501437125200
+2005 - 2010;Non-Hodgkin lymphoma;Deaths annual % change;0,0119601648577434000
+2017;Multiple myeloma;Percent of total deaths;0,0019146217258646000
+2005 - 2010;Multiple myeloma;Deaths annual % change;0,0125264072565639000
+2017;Leukemia;Percent of total deaths;0,0062129296403176300
+2005 - 2010;Leukemia;Deaths annual % change;-0,0018041898524409800
+2017;Other malignant neoplasms;Percent of total deaths;0,0064267064746691700
+2005 - 2010;Other malignant neoplasms;Deaths annual % change;0,0189690381369141000
+2017;Other neoplasms;Percent of total deaths;0,0018396778897259100
+2005 - 2010;Other neoplasms;Deaths annual % change;0,0183903250536992000
+2017;Rheumatic heart disease;Percent of total deaths;0,0051034897906684300
+2005 - 2010;Rheumatic heart disease;Deaths annual % change;-0,0174829476322989000
+2017;Ischemic heart disease;Percent of total deaths;0,1596266585859970000
+2005 - 2010;Ischemic heart disease;Deaths annual % change;0,0038841851585420600
+2017;Stroke;Percent of total deaths;0,1102370831646020000
+2005 - 2010;Stroke;Deaths annual % change;-0,0069864855655872400
+2017;Hypertensive heart disease;Percent of total deaths;0,0165460503875236000
+2005 - 2010;Hypertensive heart disease;Deaths annual % change;0,0242050673353062000
+2017;Cardiomyopathy and myocarditis;Percent of total deaths;0,0065874314327402400
+2005 - 2010;Cardiomyopathy and myocarditis;Deaths annual % change;-0,0102747128987381000
+2017;Atrial fibrillation and flutter;Percent of total deaths;0,0051343750058958300
+2005 - 2010;Atrial fibrillation and flutter;Deaths annual % change;0,0250840558620650000
+2017;Aortic aneurysm;Percent of total deaths;0,0029895066136537100
+2005 - 2010;Aortic aneurysm;Deaths annual % change;-0,0001149739121301070
+2017;Peripheral artery disease;Percent of total deaths;0,0012542509990393600
+2005 - 2010;Peripheral artery disease;Deaths annual % change;0,0329399818101206000
+2017;Endocarditis;Percent of total deaths;0,0014905728862199500
+2005 - 2010;Endocarditis;Deaths annual % change;0,0131310894986743000
+2017;Non-rheumatic valvular heart disease;Percent of total deaths;0,0025893166350714200
+2005 - 2010;Non-rheumatic valvular heart disease;Deaths annual % change;0,0221308538164560000
+2017;Other cardiovascular and circulatory diseases;Percent of total deaths;0,0064464193835328200
+2005 - 2010;Other cardiovascular and circulatory diseases;Deaths annual % change;0,0034045749843206500
+2017;Chronic obstructive pulmonary disease;Percent of total deaths;0,0571591650863051000
+2005 - 2010;Chronic obstructive pulmonary disease;Deaths annual % change;-0,0065446304618717900
+2017;Pneumoconiosis;Percent of total deaths;0,0003852213178580700
+2005 - 2010;Pneumoconiosis;Deaths annual % change;-0,0157865050744023000
+2017;Asthma;Percent of total deaths;0,0088490553775976500
+2005 - 2010;Asthma;Deaths annual % change;-0,0162356356046732000
+2017;Interstitial lung disease and pulmonary sarcoidosis;Percent of total deaths;0,0026390208215617900
+2005 - 2010;Interstitial lung disease and pulmonary sarcoidosis;Deaths annual % change;0,0323684542168693000
+2017;Other chronic respiratory diseases;Percent of total deaths;0,0009320795728658980
+2005 - 2010;Other chronic respiratory diseases;Deaths annual % change;0,0091418859346100800
+2017;Cirrhosis and other chronic liver diseases;Percent of total deaths;0,0236454613152961000
+2005 - 2010;Cirrhosis and other chronic liver diseases;Deaths annual % change;-0,0010887562985817900
+2017;Appendicitis;Percent of total deaths;0,0007854796349155570
+2005 - 2010;Appendicitis;Deaths annual % change;-0,0100376342941654000
+2017;Paralytic ileus and intestinal obstruction;Percent of total deaths;0,0042986315662046700
+2005 - 2010;Paralytic ileus and intestinal obstruction;Deaths annual % change;0,0051534182285708500
+2017;Inguinal, femoral, and abdominal hernia;Percent of total deaths;0,0007892946571250120
+2005 - 2010;Inguinal, femoral, and abdominal hernia;Deaths annual % change;0,0046188886103032100
+2017;Inflammatory bowel disease;Percent of total deaths;0,0006904701638102530
+2005 - 2010;Inflammatory bowel disease;Deaths annual % change;0,0032567400579825100
+2017;Vascular intestinal disorders;Percent of total deaths;0,0017168755227661300
+2005 - 2010;Vascular intestinal disorders;Deaths annual % change;0,0071112505168184700
+2017;Gallbladder and biliary diseases;Percent of total deaths;0,0019757957064690900
+2005 - 2010;Gallbladder and biliary diseases;Deaths annual % change;0,0071182689130887000
+2017;Pancreatitis;Percent of total deaths;0,0018163798812019700
+2005 - 2010;Pancreatitis;Deaths annual % change;0,0050303751409118300
+2017;Other digestive diseases;Percent of total deaths;0,0015600601346918200
+2005 - 2010;Other digestive diseases;Deaths annual % change;0,0046045408709330800
+2017;Alzheimer's disease and other dementias;Percent of total deaths;0,0449479270088809000
+2005 - 2010;Alzheimer's disease and other dementias;Deaths annual % change;0,0247073309062079000
+2017;Parkinson's disease;Percent of total deaths;0,0060887697124242100
+2005 - 2010;Parkinson's disease;Deaths annual % change;0,0214298992609986000
+2017;Epilepsy;Percent of total deaths;0,0023278790374181400
+2005 - 2010;Epilepsy;Deaths annual % change;-0,0121798129435286000
+2017;Multiple sclerosis;Percent of total deaths;0,0003692029581728860
+2005 - 2010;Multiple sclerosis;Deaths annual % change;0,0030184829920212500
+2017;Motor neuron disease;Percent of total deaths;0,0006089604981468100
+2005 - 2010;Motor neuron disease;Deaths annual % change;0,0171840431109009000
+2017;Other neurological disorders;Percent of total deaths;0,0009642704503928380
+2005 - 2010;Other neurological disorders;Deaths annual % change;0,0084225048398002600
+2017;Schizophrenia;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Schizophrenia;Deaths annual % change;0,0000000000000000000
+2017;Alcohol use disorders;Percent of total deaths;0,0033056131571215400
+2005 - 2010;Alcohol use disorders;Deaths annual % change;-0,0309869099082793000
+2017;Drug use disorders;Percent of total deaths;0,0029781295066102300
+2005 - 2010;Drug use disorders;Deaths annual % change;0,0106821456953210000
+2017;Depressive disorders;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Depressive disorders;Deaths annual % change;0,0000000000000000000
+2017;Bipolar disorder;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Bipolar disorder;Deaths annual % change;0,0000000000000000000
+2017;Anxiety disorders;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Anxiety disorders;Deaths annual % change;0,0000000000000000000
+2017;Eating disorders;Percent of total deaths;0,0000058356283199852
+2005 - 2010;Eating disorders;Deaths annual % change;0,0053549043746982200
+2017;Autism spectrum disorders;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Autism spectrum disorders;Deaths annual % change;0,0000000000000000000
+2017;Attention-deficit/hyperactivity disorder;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Attention-deficit/hyperactivity disorder;Deaths annual % change;0,0000000000000000000
+2017;Conduct disorder;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Conduct disorder;Deaths annual % change;0,0000000000000000000
+2017;Idiopathic developmental intellectual disability;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Idiopathic developmental intellectual disability;Deaths annual % change;0,0000000000000000000
+2017;Other mental disorders;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Other mental disorders;Deaths annual % change;0,0000000000000000000
+2017;Diabetes mellitus;Percent of total deaths;0,0244854451403609000
+2005 - 2010;Diabetes mellitus;Deaths annual % change;0,0090209303006913600
+2017;Acute glomerulonephritis;Percent of total deaths;0,0001998799430897840
+2005 - 2010;Acute glomerulonephritis;Deaths annual % change;-0,0096424204088776600
+2017;Chronic kidney disease;Percent of total deaths;0,0219886687372709000
+2005 - 2010;Chronic kidney disease;Deaths annual % change;0,0174147789677688000
+2017;Urinary diseases and male infertility;Percent of total deaths;0,0048474177331912000
+2005 - 2010;Urinary diseases and male infertility;Deaths annual % change;0,0169997242546956000
+2017;Gynecological diseases;Percent of total deaths;0,0001458309656909490
+2005 - 2010;Gynecological diseases;Deaths annual % change;0,0009031220223035740
+2017;Hemoglobinopathies and hemolytic anemias;Percent of total deaths;0,0018691202076874700
+2005 - 2010;Hemoglobinopathies and hemolytic anemias;Deaths annual % change;-0,0099076316676545100
+2017;Endocrine, metabolic, blood, and immune disorders;Percent of total deaths;0,0025834419443294900
+2005 - 2010;Endocrine, metabolic, blood, and immune disorders;Deaths annual % change;0,0140343369912046000
+2017;Rheumatoid arthritis;Percent of total deaths;0,0008450028128518580
+2005 - 2010;Rheumatoid arthritis;Deaths annual % change;0,0067036445932506700
+2017;Osteoarthritis;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Osteoarthritis;Deaths annual % change;0,0000000000000000000
+2017;Low back pain;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Low back pain;Deaths annual % change;0,0000000000000000000
+2017;Neck pain;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Neck pain;Deaths annual % change;0,0000000000000000000
+2017;Gout;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Gout;Deaths annual % change;0,0000000000000000000
+2017;Other musculoskeletal disorders;Percent of total deaths;0,0013226229657464200
+2005 - 2010;Other musculoskeletal disorders;Deaths annual % change;0,0129563258175608000
+2017;Congenital birth defects;Percent of total deaths;0,0104540629842378000
+2005 - 2010;Congenital birth defects;Deaths annual % change;-0,0255429252532611000
+2017;Dermatitis;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Dermatitis;Deaths annual % change;0,0000000000000000000
+2017;Psoriasis;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Psoriasis;Deaths annual % change;0,0000000000000000000
+2017;Scabies;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Scabies;Deaths annual % change;0,0000000000000000000
+2017;Fungal skin diseases;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Fungal skin diseases;Deaths annual % change;0,0000000000000000000
+2017;Viral skin diseases;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Viral skin diseases;Deaths annual % change;0,0000000000000000000
+2017;Acne vulgaris;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Acne vulgaris;Deaths annual % change;0,0000000000000000000
+2017;Alopecia areata;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Alopecia areata;Deaths annual % change;0,0000000000000000000
+2017;Pruritus;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Pruritus;Deaths annual % change;0,0000000000000000000
+2017;Urticaria;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Urticaria;Deaths annual % change;0,0000000000000000000
+2017;Decubitus ulcer;Percent of total deaths;0,0003634746014863640
+2005 - 2010;Decubitus ulcer;Deaths annual % change;0,0065733730647192100
+2017;Other skin and subcutaneous diseases;Percent of total deaths;0,0000704337976841086
+2005 - 2010;Other skin and subcutaneous diseases;Deaths annual % change;0,0109221793578981000
+2017;Age-related and other hearing loss;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Age-related and other hearing loss;Deaths annual % change;0,0000000000000000000
+2017;Other sense organ diseases;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Other sense organ diseases;Deaths annual % change;0,0000000000000000000
+2017;Oral disorders;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Oral disorders;Deaths annual % change;0,0000000000000000000
+2017;Sudden infant death syndrome;Percent of total deaths;0,0007142466127103180
+2005 - 2010;Sudden infant death syndrome;Deaths annual % change;-0,0311873777170123000
+2017;Road injuries;Percent of total deaths;0,0222191428942067000
+2005 - 2010;Road injuries;Deaths annual % change;-0,0103757946936111000
+2017;Other transport injuries;Percent of total deaths;0,0016433033422866100
+2005 - 2010;Other transport injuries;Deaths annual % change;-0,0099124026815338700
+2017;Falls;Percent of total deaths;0,0124366155417836000
+2005 - 2010;Falls;Deaths annual % change;0,0087667939833703700
+2017;Drowning;Percent of total deaths;0,0052767374578483700
+2005 - 2010;Drowning;Deaths annual % change;-0,0352105601552780000
+2017;Fire, heat, and hot substances;Percent of total deaths;0,0021562195658504300
+2005 - 2010;Fire, heat, and hot substances;Deaths annual % change;-0,0254560840746536000
+2017;Poisonings;Percent of total deaths;0,0012935765176541300
+2005 - 2010;Poisonings;Deaths annual % change;-0,0224764610022997000
+2017;Exposure to mechanical forces;Percent of total deaths;0,0024397798151526200
+2005 - 2010;Exposure to mechanical forces;Deaths annual % change;-0,0188456325755424000
+2017;Adverse effects of medical treatment;Percent of total deaths;0,0021730228781172200
+2005 - 2010;Adverse effects of medical treatment;Deaths annual % change;-0,0005455561863922790
+2017;Animal contact;Percent of total deaths;0,0014491317532093800
+2005 - 2010;Animal contact;Deaths annual % change;-0,0152475833339978000
+2017;Foreign body;Percent of total deaths;0,0022183846851984500
+2005 - 2010;Foreign body;Deaths annual % change;-0,0183069206181149000
+2017;Other unintentional injuries;Percent of total deaths;0,0016923863412223900
+2005 - 2010;Other unintentional injuries;Deaths annual % change;-0,0159940586980799000
+2017;Self-harm;Percent of total deaths;0,0141891884963408000
+2005 - 2010;Self-harm;Deaths annual % change;-0,0151676721447045000
+2017;Interpersonal violence;Percent of total deaths;0,0072454205604308100
+2005 - 2010;Interpersonal violence;Deaths annual % change;-0,0176683322604073000
+2017;Exposure to forces of nature;Percent of total deaths;0,0001716510313657840
+2005 - 2010;Exposure to forces of nature;Deaths annual % change;0,1971071563821080000
+2017;Environmental heat and cold exposure;Percent of total deaths;0,0009536132898151690
+2005 - 2010;Environmental heat and cold exposure;Deaths annual % change;0,0887922517887535000
+2017;Ebola;Percent of total deaths;14300000,0000000000000000000
+2005 - 2010;Ebola;Deaths annual % change;0,0000000000000000000
+2017;Executions and police conflict;Percent of total deaths;0,0002852644560247000
+2005 - 2010;Executions and police conflict;Deaths annual % change;-0,0232413288591951000
+2017;Zika virus;Percent of total deaths;3470000000,0000000000000000000
+2005 - 2010;Zika virus;Deaths annual % change;0,0000000000000000000
+2017;Guinea worm disease;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Guinea worm disease;Deaths annual % change;0,0000000000000000000
+2017;Conflict and terrorism;Percent of total deaths;0,0023187400248612200
+2005 - 2010;Conflict and terrorism;Deaths annual % change;0,0325757458770547000
+2017;Typhoid and paratyphoid;Percent of total deaths;0,0024295955902110500
+2005 - 2010;Typhoid and paratyphoid;Deaths annual % change;-0,0321463924891874000
+2017;Invasive Non-typhoidal Salmonella (iNTS);Percent of total deaths;0,0010557693501751800
+2005 - 2010;Invasive Non-typhoidal Salmonella (iNTS);Deaths annual % change;-0,0331555521658668000
+2017;Headache disorders;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Headache disorders;Deaths annual % change;0,0000000000000000000
+2017;Bacterial skin diseases;Percent of total deaths;0,0013586167062844700
+2005 - 2010;Bacterial skin diseases;Deaths annual % change;0,0157828829953705000
+2017;Blindness and vision impairment;Percent of total deaths;0,0000000000000000000
+2005 - 2010;Blindness and vision impairment;Deaths annual % change;0,0000000000000000000
+2017;Upper digestive system diseases;Percent of total deaths;0,0052213828094569300
+2005 - 2010;Upper digestive system diseases;Deaths annual % change;-0,0210665961297803000
+;;;
+ United States: Institute for Health Metrics and Evaluation (IHME);;;
